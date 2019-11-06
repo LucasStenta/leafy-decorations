@@ -7,6 +7,9 @@ html {
   background-size: 64px;
   background-repeat: repeat;
   background-color: #588477;
+  border-bottom: 3px solid #2d5a4d;
+  border-top: 3px solid #2d5a4d;
+  color: #fff;
 }
 
 .logo {
@@ -23,7 +26,6 @@ html {
   border: 3px solid #2d5a4d;
   background-color: #467366;
   color: #fff;
-
 }
 
 .nav a:hover {
