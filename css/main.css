@@ -46,6 +46,12 @@ color: #145b1d;
 }
 
 .banner-content {
+  color: #fff;
+  padding-top: 300px;
+  background-image: url("../images/two-leaves.svg");
+  background-repeat: no-repeat;
+  background-size: 6em;
+  background-position: .75em 180px;
 
 }
 
